@@ -1,16 +1,17 @@
-PROJETO BASE COM LARAVEL 10, INERTIA E VUEJS
+# PROJETO BASE COM LARAVEL 10, INERTIA E VUEJS
 
-#COMANDOS
+Base do laravel 10 com todas as configurações do VueJs com Inertia e Breeze para Autenticação
 
-# NSTALAÇÃO INERTIA BACKEMD
+# Instalação Inertia BackEnd
 
 composer require inertiajs/inertia-laravel
 php artisan inertia:middleware
 composer require laravel/ui
 
-# INSTALAÇÃO INERTIA FRONTEND
+# Instalação Inertia FrontEnd
 
 npm install @inertiajs/vue3
 
-#INSTALAÇÃO BREEZE VUE
+# Instalação Breeze VueJS 3
+
 composer require laravel/breeze --dev
