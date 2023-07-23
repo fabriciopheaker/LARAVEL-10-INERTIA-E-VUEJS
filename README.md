@@ -2,13 +2,13 @@ PROJETO BASE COM LARAVEL 10, INERTIA E VUEJS
 
 #COMANDOS
 
-#INSTALAÇÃO INERTIA BACKEMD
+# NSTALAÇÃO INERTIA BACKEMD
 
 composer require inertiajs/inertia-laravel
 php artisan inertia:middleware
 composer require laravel/ui
 
-#INSTALAÇÃO INERTIA FRONTEND
+# INSTALAÇÃO INERTIA FRONTEND
 
 npm install @inertiajs/vue3
 
